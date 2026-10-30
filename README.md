@@ -1,6 +1,6 @@
 # Financial Econometrics — Seminars & Assignments
 
-This repository contains seminar materials and two final projects from the **Financial Econometrics** course held by the **VEGA Foundation** at the **Faculty of Computational Mathematics and Cybernetics at MSU in autumn semester 2024**.
+This repository contains seminar materials and two final projects from the **Financial Econometrics** course held by the **VEGA Foundation** at the **Faculty of Computational Mathematics and Cybernetics at MSU in fall semester 2024**.
 
 The seminars cover a progression of time‑series and econometric models, including:
 
@@ -10,3 +10,6 @@ The seminars cover a progression of time‑series and econometric models, includ
 
 The two final projects apply these methods to financial data.
 
+## 🛠 Technologies
+
+The code is written in **R** and **Python** using standard econometrics and time‑series libraries (e.g., in R: forecast, vars, BVAR, tseries, urca, ggplot2; in Python: statsmodels, pandas, numpy, matplotlib).
