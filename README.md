@@ -12,4 +12,4 @@ The two final projects apply these methods to financial data.
 
 ## 🛠 Technologies
 
-The code is written in **R** and **Python** using standard econometrics and time‑series libraries (e.g., in R: forecast, vars, BVAR, tseries, urca, ggplot2; in Python: statsmodels, pandas, numpy, matplotlib).
+The code is written in **R** and **Python** using standard econometrics and time‑series libraries (e.g., in R: forecast, vars, BVAR, tseries; in Python: statsmodels, pandas, numpy, matplotlib).
